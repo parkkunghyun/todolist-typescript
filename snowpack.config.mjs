@@ -1,4 +1,5 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
+/** snowpack의 설정파일 */
 export default {
   mount: {
     public: { url: '/', static: true },
